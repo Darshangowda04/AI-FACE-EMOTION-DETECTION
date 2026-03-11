@@ -2,6 +2,13 @@
 
 A real-time, production-ready AI face emotion detection system with advanced visualization, color-coded emotions, and API integration for easy adoption in other applications.
 
+## 🌐 Live Demo
+
+**Try the app now without installation:**
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Darshangowda04/ai-face-emotion-detection/streamlit_app.py)
+
+**Direct Link:** https://share.streamlit.io/Darshangowda04/ai-face-emotion-detection/streamlit_app.py
+
 ## Features ✨
 
 - **Real-time Face Expression Recognition** - Detects 7 different emotions
