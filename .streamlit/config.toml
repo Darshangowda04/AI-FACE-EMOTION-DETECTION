@@ -1,0 +1,17 @@
+[theme]
+primaryColor = "#00d4ff"
+backgroundColor = "#1a1a2e"
+secondaryBackgroundColor = "#16213e"
+textColor = "#ffffff"
+font = "sans serif"
+
+[client]
+showErrorDetails = true
+toolbarMode = "viewer"
+
+[logger]
+level = "info"
+
+[server]
+mainFilePathOrName = "streamlit_app.py"
+headless = true
