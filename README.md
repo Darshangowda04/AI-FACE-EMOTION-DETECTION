@@ -5,9 +5,9 @@ A real-time, production-ready AI face emotion detection system with advanced vis
 ## 🌐 Live Demo
 
 **Try the app now without installation:**
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Darshangowda04/ai-face-emotion-detection/streamlit_app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-face-emotion-detection-streamlit.streamlit.app)
 
-**Direct Link:** https://share.streamlit.io/Darshangowda04/ai-face-emotion-detection/streamlit_app.py
+**Direct Link:** https://ai-face-emotion-detection-streamlit.streamlit.app
 
 ## Features ✨
 
